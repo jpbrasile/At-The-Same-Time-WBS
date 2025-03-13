@@ -1,3 +1,6 @@
+### [Teaser](https://jpbrasile-improvedgermination.web.val.run)
+
+
 ### Les Plasmas froids et la germination des graines 
  ![Image du LPP](https://www.lpp.polytechnique.fr/local/cache-vignettes/L630xH354/une20210324_1-06338.jpg?1724867875)
 Les plasmas froids, également appelés plasmas hors équilibre, présentent des applications prometteuses dans divers domaines, notamment l'agriculture, où ils sont utilisés pour améliorer la germination des graines et la croissance des plantes.
@@ -31,7 +34,10 @@ Les plasmas froids représentent une technologie innovante et prometteuse pour l
         - Temps typique d'exposition : 10 mn, DBD sinus 
         - Axe d'amélioration ?: grande surface de plasma, passage à des génrateurs ns plus performant
         - notre proposition de valeur : PLASMACOLA
-- [Laplace](https://sfbv.fr/wp-content/uploads/2020/08/Profil_poste_PlaGeC_VPostDoc.pdf) 
+- [Laplace](https://sfbv.fr/wp-content/uploads/2020/08/Profil_poste_PlaG
+
+
+eC_VPostDoc.pdf) 
 - [Thèse](https://theses.hal.science/tel-03193982v1/file/2020TOU30208b.pdf)
 
 <details>
