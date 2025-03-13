@@ -4,7 +4,7 @@
 - 	"Méthaniseur 2.0" : Détailler la solution pour les méthaniseurs, les bénéfices concrets (quantifiables si possible), les partenaires potentiels (G**), et les étapes de mise en œuvre. Inclure des témoignages ou études de cas préliminaires.
 - Site web général de l'entreprise : Mettre à jour avec une section "Solutions" clairement structurée par secteur d'application (Recherche, Industrie, Méthanisation, etc.). Intégrer les brevets et la fiabilité comme arguments clés.
 
-** Réponses**
+**Réponses**
 - **Pour le recherche:**
 
 Pour les chercheurs et laboratoires, nos générateurs pulsés offrent:
@@ -15,7 +15,7 @@ Pour les chercheurs et laboratoires, nos générateurs pulsés offrent:
 - Scalabilité industrielle: Architecture modulaire jusqu'à 200 kW par module avec validation de mise en parallèle de réacteurs
 - Nos solutions soutiennent vos projets R&D du laboratoire jusqu'à l'industrialisation, avec des technologies éprouvées en méthanisation, plasmalyse et traitement de surfaces.
 
--** Pour l'industrie**
+-**Pour l'industrie**
 
 Pour les industriels, nos générateurs pulsés offrent:
 
