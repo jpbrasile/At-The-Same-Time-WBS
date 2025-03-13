@@ -1,5 +1,32 @@
+**Teasers**
+- At the Same Time: https://jpbrasile-atthesametimeteaser.web.val.run/ 
+- Agriculture 2.0 : https://jpbrasile-agriculture2_0.web.val.run/ 
+- Méthaniseur 2.0 : 
+
+- Fablab2.0:  (https://jpbrasile-fablabteaser.web.val.run/)  https://jpbrasile-fablab20.web.val.run/
+- Methaniseur2.0 : 
+- Milk2.0: https://www.val.town/v/jpbrasile/milk_CAP_pasteurization 
+- Dépollution 2.0 : https://jpbrasile-cleanair2_0.web.val.run/ 
+
+- Chimie 2.0 : Réactions chimiques innovantes et éco-efficientes grâce aux plasmas froids.
+- Énergie 2.0 : Transformer les déchets carbonés en énergie propre avec les plasmas froids.
+- Matériaux 2.0 : Des revêtements aux propriétés inédites grâce aux traitements plasma.
+- Alimentation 2.0 : Conservation révolutionnaire des aliments par plasmas froids, pour une fraîcheur prolongée.
+- Eau 2.0 : Purification de l'eau optimisée par les plasmas froids, une ressource précieuse préservée.
+- Textile 2.0 : Des textiles aux propriétés améliorées et plus respectueux de l'environnement grâce aux plasmas.
+- Santé 2.0 : Applications médicales innovantes des plasmas froids, de la désinfection à la thérapie.
+- Recyclage 2.0 : Valorisation des déchets carbonés grâce aux technologies plasma.
+- Bioplastiques 2.0 : Production de bioplastiques améliorée par les traitements plasma.
+- Carburants 2.0 : Vers des carburants synthétiques plus propres grâce aux plasmas froids.
+- Captage Carbone 2.0 : Optimisation du captage et de la valorisation du CO2 par les plasmas.
+- Séchage 2.0 : Un séchage plus rapide et économe en énergie grâce aux plasmas froids.
+- Traitement des Surfaces 2.0 : Des surfaces aux fonctionnalités avancées grâce aux plasmas.
+- Industrie 2.0 : Des procédés industriels plus efficaces et respectueux de l'environnement grâce aux plasmas.
+
+
 **Déploiement de Plateformes de Communication Ciblées :**
 - Site Web "At the Same Time" et "Méthaniseur 2.0" : Priorité absolue.
+
 -  	"At the Same Time" : Présenter le projet global, l'approche multi-procédés, l'objectif TRL 7, et les avantages pour les industriels cherchant à optimiser des procédés via le plasma froid. Illustrer avec des cas d'usage potentiels.
 - 	"Méthaniseur 2.0" : Détailler la solution pour les méthaniseurs, les bénéfices concrets (quantifiables si possible), les partenaires potentiels (G**), et les étapes de mise en œuvre. Inclure des témoignages ou études de cas préliminaires.
 - Site web général de l'entreprise : Mettre à jour avec une section "Solutions" clairement structurée par secteur d'application (Recherche, Industrie, Méthanisation, etc.). Intégrer les brevets et la fiabilité comme arguments clés.
