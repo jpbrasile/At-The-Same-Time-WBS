@@ -1,3 +1,7 @@
+### Financement 
+[LIFE](https://cinea.ec.europa.eu/life-calls-proposals-2025_en)
+[CAP](https://agriculture.ec.europa.eu/common-agricultural-policy/financing-cap/cap-funds_en)
+
 #### Points Clés pour l'Augmentation du Chiffre d'Affaires
 
 *   **Capitaliser sur les opportunités de marché identifiées:** Méthaniseur 2.0, plasmalyse du méthane, process Roll 2 Roll, et multi-laminés recyclables.
